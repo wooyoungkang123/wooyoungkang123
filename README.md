@@ -43,8 +43,3 @@ I am a first-year MS Computer Science student at NYU Courant. I'm passionate abo
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-## 🏆 Highlights:
-- 🥇 First Place at Hong Kong Techathon 2024
-- 🎓 MS Computer Science @ NYU Courant
-- 🔬 Research in ML optimization and reasoning systems
