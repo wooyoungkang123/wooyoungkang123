@@ -1,7 +1,7 @@
 # Hi 👋 I'm Wooyoung Kang
 
 ## 🔨 About Me:
-I am a first-year MS Computer Science student at NYU Courant. I'm passionate about machine learning, LLM optimization, and building scalable AI systems. I'm also an entrepreneur who has founded multiple startups.
+I'm passionate about machine learning, LLM optimization, and building scalable AI systems. I'm also an entrepreneur who has founded multiple startups.
 
 ## 🚀 What I'm Up To
 - 🤖 Researching LLM optimization and multi-agent systems
